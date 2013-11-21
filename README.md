@@ -10,7 +10,7 @@ Install Mysql with empty root password. You can always set mysql password afterw
 This script will ask you to type mysql if you want to install mysql database.
 MongoDB Facility not now, will add in future script.
 
-Install PHP 5.5 latest stable and enabled php-fpm in nginx default Virtual Host.
+Install PHP 5.5 latest stable and enable php-fpm in nginx default Virtual Host using regex_abhishek.py.
 
 Create Directory /home/www . You can test and run .php file in that directory.
 
